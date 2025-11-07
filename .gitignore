@@ -1,0 +1,4 @@
+venv/
+dataset/amazon_products_sales_data_cleaned.csv
+dataset/amazon_products_sales_data_uncleaned.csv
+
